@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.daba6360.css",
-    "main.js": "/static/js/main.c30c32c7.js",
+    "main.js": "/static/js/main.e6af8384.js",
     "static/media/LikeActive.svg": "/static/media/LikeActive.26052474eb59db6f750bfb7a2b7c20a9.svg",
     "static/media/Light.svg": "/static/media/Light.0db9b317adca42d513c161c308ea1220.svg",
     "static/media/random.svg": "/static/media/random.a2b41947a276952f6b93bfc54ee4f6da.svg",
@@ -13,10 +13,10 @@
     "static/media/Arrow 2.svg": "/static/media/Arrow 2.6c624b7c4028dfd9bfcb7b5df82e63bc.svg",
     "static/media/play-svgrepo-com.svg": "/static/media/play-svgrepo-com.a0803d83e2cabf14b7b7e18f6583a247.svg",
     "main.daba6360.css.map": "/static/css/main.daba6360.css.map",
-    "main.c30c32c7.js.map": "/static/js/main.c30c32c7.js.map"
+    "main.e6af8384.js.map": "/static/js/main.e6af8384.js.map"
   },
   "entrypoints": [
     "static/css/main.daba6360.css",
-    "static/js/main.c30c32c7.js"
+    "static/js/main.e6af8384.js"
   ]
 }
